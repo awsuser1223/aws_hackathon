@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aisocialapp-dev-181431-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767721934882:role/amplify-aisocialapp-dev-181431-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767721934882:role/amplify-aisocialapp-dev-181431-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aisocialapp-dev-181431-deployment",
+      "UnauthRoleName": "amplify-aisocialapp-dev-181431-unauthRole",
+      "StackName": "amplify-aisocialapp-dev-181431",
+      "StackId": "arn:aws:cloudformation:us-east-1:767721934882:stack/amplify-aisocialapp-dev-181431/83d175a0-23d6-11ee-aa3c-0acb8c8bc5a3",
+      "AmplifyAppId": "d14lxwqkefa73o"
+    },
+    "categories": {
+      "auth": {
+        "aisocialappbe641f55": {}
+      }
+    }
+  }
+}
