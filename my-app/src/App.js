@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="app">
       <main>
-     
     <MyForm
     onSubmit={fields => console.log(fields)}
   />
